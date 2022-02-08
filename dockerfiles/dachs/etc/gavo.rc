@@ -4,3 +4,6 @@ bindAddress:
 serverPort: 8080
 serverURL: http://localhost:8080
 logFormat: combined
+
+[ivoa]
+authority : my-auth
